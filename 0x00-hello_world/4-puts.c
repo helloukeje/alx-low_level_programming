@@ -1,11 +1,9 @@
-#include <studio.h>
+#include <stdio.h>
 
 /**
-* main - print the script in the put function 
+* main - Entry point 
 *
-* Description: using the main function
-* this program prints "Programming is like building a multilingual puzzle
-* Return
+* Return: Always 0 (Success)
 */
 int main(void)
 {
