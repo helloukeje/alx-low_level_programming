@@ -1,4 +1,5 @@
 #include "main.h"
+
 /**
  * _strncpy - c finction that copies a string, including the
  * terminating null byte, using at most an inputted number of bytes.
