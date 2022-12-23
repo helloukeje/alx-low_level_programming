@@ -1,10 +1,10 @@
 #include "main.h"
 /**
- * _strcat - concatenate two strings but add inputed number of bytes 
- * @dest: string to be completed at end of dest 
+ * _strcat - concatenate two strings but add inputed number of bytes
+ * @dest: string to be completed at end of dest
  * @src: string to be completed at the end of dest
  * @n: integer parameter to compare index to
- * 
+ *
  * Return: returns new concatenated string
  */
 
