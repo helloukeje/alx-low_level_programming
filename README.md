@@ -1,1 +1,1 @@
-This is a repository that conttains C programming bits 
+This repo contains C proramming bits
